@@ -38,7 +38,7 @@ import logbook.internal.gui.Tools;
 public class CheckUpdate {
 
     /** GitHub リポジトリのパス */
-    public static final String REPOSITORY_PATH = "Sdk0815/logbook-kai";
+    public static final String REPOSITORY_PATH = "hmx-17/logbook-kai";
 
     /** 更新確認先 Github tags API */
     private static final String TAGS = "https://api.github.com/repos/" + REPOSITORY_PATH + "/tags";
