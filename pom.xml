@@ -96,7 +96,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
-            <version>1.7.26</version>
+            
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
@@ -128,4 +128,21 @@
             <url>https://maven.pkg.github.com/hmx-17/logbook-kai</url>
         </repository>
     </distributionManagement>
+
+
+    <dependencyManagement>
+    
+
+        <dependencies>
+        
+
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-api</artifactId>
+                <version>1.7.26</version>
+            </dependency>
+
+        </dependencies>
+
+    </dependencyManagement>
 </project>
