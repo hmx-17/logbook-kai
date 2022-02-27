@@ -75,7 +75,7 @@ Java 8u40以降のJava8がインストールされたWindows,LinuxまたはmacOS
 - Amazon Corretto : 一部機能が動作しません(集計機能・自動アップデートが利用不可)。
 - AdoptOpenJDK : ライブラリが不足しているため起動しません。
 
-### [ダウンロード](https://github.com/Sdk0815/logbook-kai/releases)
+### [ダウンロード](https://github.com/hmx-17/logbook-kai/releases)
 
 **ご注意ください**
 
